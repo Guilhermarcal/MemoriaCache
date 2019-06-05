@@ -1,7 +1,8 @@
 # MemoriaCache
 Trabalho da faculdade Cotemig - AOC & AED
+
 Este trabalho tem como objetivo executar uma troca de blocos
-utlizando a tecnica associativa por conjunto de N posições
+utlizando a tecnica associativa por conjunto de N posições:
 
 1) O simulador deverá receber como entrada os seguintes dados:
 a. O tamanho da memória principal em bytes.
